@@ -24,7 +24,7 @@ Você vai precisar do [NodeJS](https://nodejs.org) instalado na sua máquina par
 
 ```Git
 git clone https://github.com/devmarquinhos/curly-guacamole
-$ cd curso-react
+$ cd curly-guacamole
 $ npm install
 $ npm run dev
 ```
