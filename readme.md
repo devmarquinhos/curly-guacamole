@@ -3,12 +3,14 @@
 
 ---
 
-### Guia de Conteúdo
+<h3 align="center"> Conteúdo</h3>
 
-<a href="#Sobre">Sobre</a>
-<a href="#Instalação">Instalação</a>
-<a href="#Tecnologias">Tecnologias</a>
-<a href="#Licença">Licença</a>
+<div align="center">
+<a href="#Sobre">Sobre</a> |
+<a href="#Instalação">Instalação</a> |
+<a href="#Tecnologias">Tecnologias</a> |
+<a href="#Licença">Licença</a></div>
+
 
 ---
 
