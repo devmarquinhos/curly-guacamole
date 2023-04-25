@@ -5,10 +5,12 @@
 
 <h3>Guia de conteúdo</h3>
 
+<ol>
 <a href="#Sobre">Sobre</a>
 <a href="#Instalação">Instalação</a>
 <a href="#Tecnologias">Tecnologias</a>
 <a href="#Licença">Licença</a>
+</ol>
 
 ---
 
