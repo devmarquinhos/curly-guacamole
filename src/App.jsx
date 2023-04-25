@@ -1,4 +1,5 @@
 import './App.css'
+import HelloWorld from './components/HelloWorld'
 
 function App() {
   const nome = 'Marcos'
@@ -15,6 +16,7 @@ function App() {
       <p>Olá {nome}! Seu nome em maiúsculo: {newNome}</p>
       <p>Soma: {soma(2, 2)}</p>
       <p><img src={url} alt="Placeholder 150x150" /></p>
+      <HelloWorld/>
     </div>
   )
 }
