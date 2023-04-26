@@ -16,7 +16,9 @@ function App() {
       <p>Olá {nome}! Seu nome em maiúsculo: {newNome}</p>
       <p>Soma: {soma(2, 2)}</p>
       <p><img src={url} alt="Placeholder 150x150" /></p>
-      <HelloWorld/>
+      <HelloWorld title="Título"/>
+      <HelloWorld title="Título 2"/>
+
     </div>
   )
 }

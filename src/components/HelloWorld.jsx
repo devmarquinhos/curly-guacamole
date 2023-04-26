@@ -1,9 +1,9 @@
 import Frase from "./Frase";
 
-export default function HelloWorld() {
+export default function HelloWorld(props) {
     return(
         <div>
-            <h1>Meu primeiro componente</h1>
+            <h1>{props.title}</h1>
             <Frase/>
         </div>
     )
